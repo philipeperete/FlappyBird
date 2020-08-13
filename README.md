@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Logo" title="Logo" src="logo.png" width="300px"> 
+  <img alt="Logo" title="Logo" src="./img/logo.jpg" width="450px"> 
 </p>
 
 _________
@@ -21,7 +21,7 @@ _________
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="FlappyBird" title="FlappyBird" src="FlappyBird.gif" width="400px">
+    <img alt="FlappyBird" title="FlappyBird" src="./img/FlappyBird.gif" width="250px">
 </p>
 
 _________
